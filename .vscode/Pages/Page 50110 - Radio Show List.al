@@ -12,7 +12,7 @@ page 50110 "Radio Show List"
     {
         area(Content)
         {
-            repeater(Group)
+            repeater(General)
             {
                 field("No."; "No.") { ApplicationArea = Basic; }
                 field("Radio Show Type"; "Radio Show Type") { ApplicationArea = Basic; }
